@@ -1,0 +1,212 @@
+.header-wrapper {
+	margin-top: 39px;
+}
+.flex {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: distribute;
+	    justify-content: space-around;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+#logo {
+	font-size: 70px;
+	font-family: BrandonGrotesque-bold;
+	color: #36413E;
+}
+.li-items {
+	font-size: 18px;
+	font-family: BrandonGrotesque-regular;
+	color: #7F7F7F
+}
+.icon-item1 {
+	margin-right: 38px;
+	
+}
+.icons {
+	width: 130px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.section2 {
+	margin-top: 50px;
+	background-image: url(../images/Banner.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 855px;
+	position: relative;
+}
+.box1{
+	background-color: #fff;
+	width: 706px;
+	height: 187px;
+	position: absolute;
+	bottom: 100px;
+	left: 400px;
+}
+.about {
+	font-size: 40px;
+	font-family: Kazimir-Italic;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	padding: 75px;
+}
+.section3 {
+	background-color: #306B34;
+	height: 780px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.box2 {
+	height: 453px;
+	width: 1028px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+.statia1 {
+	margin-left: 43px;
+	line-height: 1.5;
+}
+.satauri1 {
+	font-size: 40px;
+	font-family: BrandonGrotesque-regular;
+	color: #19381F;
+}
+.detailedinfo1 {
+	margin-top: 50px;
+	font-size: 20px;
+	font-family: Kazimir-Italic;
+	color: #F4F4F1;
+}
+.section4 {
+	height: 617px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+
+}
+.box3 {
+	margin-top: 120px;
+	width: 696px;
+	height: 410px;
+}
+.satauri2 {
+	font-size: 40px;
+	font-family: Kazimir-Italic;
+	color: #36413E;
+	text-align: center;
+
+}
+.detailedinfo2 {
+	margin-top: 113px;
+	font-size: 20px;
+	font-family: Kazimir-Italic;
+	line-height: 1.5;
+	color: #7F7F7F;
+
+}
+.detailedinfo3 {
+	margin-top: 40px;
+	color: #7F7F7F;
+	font-size: 20px;
+	font-family: Kazimir-Italic;
+
+}
+.box4 {
+	margin-top: 30px;
+	width: 148px;
+	height: 48px;
+	background-color: #36413E;
+
+}
+.moreinfo {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	padding-top:15px;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 12px;
+	font-family: BrandonGrotesque-bold;
+	color: #FFFFFF;
+}
+.section5 {
+	margin-top: 25px;
+	height: 78px;
+	background-color: #306B34;
+}
+.box5 {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 110px;
+	height: 30px;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align:end;
+	    -ms-flex-align:end;
+	        align-items:flex-end;
+}
+#privacy {
+	color:#FFFFFF;
+	font-size: 12px;
+	font-family: BrandonGrotesque-bold;
+	margin-bottom: -15px;
+}
+.footer-wrapper {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack:center;
+	    -ms-flex-pack:center;
+	        justify-content:center;
+}
+.flex-footer {
+	width: 275px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+
+}
+.footer-li {
+	font-size: 10px;
+	font-family:BrandonGrotesque-regular;
+	color:#FFFFFF;
+}
